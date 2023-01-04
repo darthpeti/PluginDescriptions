@@ -6,7 +6,7 @@ TownyTweaks is a Minecraft plugin for Towny that adds configurable features rega
 - Interactions with plots
 - more
 
-For a download link, check this link:\
+For a download link, check this:\
 **https://github.com/darthpeti/TownyTweaks** 
 
 Support Discord Server:\
