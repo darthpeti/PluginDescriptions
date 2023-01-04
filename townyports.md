@@ -44,6 +44,6 @@ The money goes from the player's economy account to the town's economy account.
 Before a player can travel to a port, they can use the command */portprice* followed by the port's town name to see the cost of travelling.
 
 ### **Admin Commands**
- /townuuid <town-name>
+ /townuuid (town-name)
   - Permission: **townyports.townuuid** || **CONSOLE**
   - Use this to find the UUID of a town, which is used to store the port travel fee values in the config.yml for each town. 
