@@ -9,6 +9,13 @@ However, you will not have access to the new jar files unless you start sponsori
 ### **NOTES**
 At the time reading this, my Github sponsor profile is pending verification.
 
+### **System Requirements**
+- Minimum Java version: 17
+- Minimum MC version: 1.18.2
+- Server type: Paper / Fork of Paper
+- Minimum Towny version: 0.98.4.0
+- Minimum Vault version: v1.17
+
 ### **Installation Guide**
 TownyPorts requires and relies a single thing from the Towny configuration file.\
 Go to the */serverdirectory/plugins/Towny/settings/config.yml* file and add the following lines:\
