@@ -1,13 +1,9 @@
 ### **TownyPorts**
 TownyPorts is a Minecraft plugin for Towny that allows the concept of instant travel between towns across oceans.\
-This is a paid plugin, meaning you must sponsor for it on a monthly basis (or just one month) for access to the jar.\
-The minimum sponsorship amount in USD is 3$ (monthly/one-time).\
-As long as you are sponsoring me or your sponsorship hasn't expired, you will have access to the download links in a channel on my Discord Server. (https://discord.gg/xNprfFwEuE) \
-When/If your sponsorship has expired or you have stopped sponsoring, you can still use the old jar(s) you have downloaded.\
-However, you will not have access to the new jar files unless you start sponsoring again.
+This is not a free plugin, meaning you must pay for it (10$ USD once) in order to have access to the plugin jar(s).
 
 ### **NOTES**
-At the time reading this, my Github sponsor profile is pending verification.
+Currently, there is no payment link available.
 
 ### **System Requirements**
 - Minimum Java version: 17
