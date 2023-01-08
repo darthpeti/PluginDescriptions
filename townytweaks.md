@@ -11,3 +11,10 @@ For a download link, check this:\
 
 Support Discord Server:\
 **https://discord.gg/xNprfFwEuE**
+
+### **Requirements:**
+- Minimum Minecraft Version: PaperMC 1.16.5
+- Minimum Java Version: 16
+- Minimum Towny Version: 0.98.4.0
+- Minimum SiegeWar Version (if using it): 0.8.0
+- Minimum Brewery Version (if using it): 3.1
