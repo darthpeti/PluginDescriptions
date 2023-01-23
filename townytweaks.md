@@ -9,9 +9,6 @@ TownyTweaks is a Minecraft plugin for Towny that adds configurable features rega
 For a download link, check this:\
 **https://github.com/darthpeti/TownyTweaks** 
 
-Support Discord Server:\
-**https://discord.gg/xNprfFwEuE**
-
 ### **Requirements:**
 - Minimum Minecraft Version: PaperMC 1.16.5
 - Minimum Java Version: 16
