@@ -22,7 +22,3 @@ All of these can be used on your discord server if you follow the steps below to
 - Minimum MC Version: Spigot 1.17.1
 - Minimum Java Version: 17
 - Minimum Towny Version: 0.98.4.0
-
-### **Support**
-For support and feature requests, please contact me on this discord server:
-- https://discord.gg/xNprfFwEuE
